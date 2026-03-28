@@ -1,1 +1,1 @@
-test notebook
+print("test notebook")
